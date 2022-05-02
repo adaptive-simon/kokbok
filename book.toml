@@ -11,5 +11,4 @@ preferred-dark-theme = "ayu"
 additional-js = ["theme/enable-checkboxes.js"]
 
 [output.html.fold]
-enable = false
-
+enable = true

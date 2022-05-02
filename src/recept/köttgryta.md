@@ -15,22 +15,7 @@ smaken.
 - [ ] Enbär
 - [ ] Salt
 - [ ] Vitpeppar
+- [ ] Morötter
+- [ ] Lök
 
 </div>
-
-## Checklista
-
-<div class="checkbox-list">
-
-- [ ] Koka upp vatten till spaghettin
-- [ ] Stek köttfärsen tills den är färdig
-- Häll i...
-    - [ ] Tikka masala sås
-    - [ ] Hälften av den rivna osten
-- Häll i...
-    - [ ] Spaghetti
-- [ ] Sätt en timer på 10 minuter
-
-</div>
-
-Köttfärssåsen är klar så fort osten har smält. Serveras bäst toppad med riven ost. Man kan aldrig ha för mycket ost! 
