@@ -1,0 +1,15 @@
+[book]
+authors = ["Simon Hyll"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kokbok"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+additional-js = ["theme/enable-checkboxes.js"]
+
+[output.html.fold]
+enable = false
+
